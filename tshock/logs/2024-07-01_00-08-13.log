@@ -1,0 +1,338 @@
+2024-07-01 00:08:14 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2024-07-01 00:08:14 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-07-01 00:08:14 - TShock: INFO: AutoSave Enabled
+2024-07-01 00:08:14 - TShock: INFO: Backups Enabled
+2024-07-01 00:08:14 - TShock: INFO: Welcome to TShock for Terraria!
+2024-07-01 00:08:14 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-07-01 00:08:14 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-07-01 00:08:39 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-07-01 00:08:39 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-07-01 00:08:39 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-07-01 00:08:56 - GetDataHandlers: INFO: GRENY authenticated successfully as user GRENY.
+2024-07-01 00:08:57 - TShock: INFO: GRENY (127.100.3.110) from 'default' group joined. (1/8)
+2024-07-01 00:08:57 - Utils: INFO: Broadcast: GRENY has joined.
+2024-07-01 00:09:06 - Utils: INFO: GRENY executed (args omitted): /login.
+2024-07-01 00:11:53 - GetDataHandlers: INFO: pen1sov authenticated successfully as user pen1sov.
+2024-07-01 00:11:54 - TShock: INFO: pen1sov (127.41.54.176) from 'default' group joined. (2/8)
+2024-07-01 00:11:54 - Utils: INFO: Broadcast: pen1sov has joined.
+2024-07-01 00:12:00 - Utils: INFO: Broadcast: GRENY: шалом
+2024-07-01 00:12:52 - Utils: INFO: Broadcast: pen1sov has left.
+2024-07-01 00:12:52 - TShock: INFO: pen1sov disconnected.
+2024-07-01 00:13:51 - GetDataHandlers: INFO: pen1sov authenticated successfully as user pen1sov.
+2024-07-01 00:13:52 - TShock: INFO: pen1sov (127.41.54.176) from 'default' group joined. (2/8)
+2024-07-01 00:13:52 - Utils: INFO: Broadcast: pen1sov has joined.
+2024-07-01 00:14:29 - Utils: INFO: Broadcast: pen1sov has left.
+2024-07-01 00:14:29 - TShock: INFO: pen1sov disconnected.
+2024-07-01 00:14:55 - GetDataHandlers: INFO: pen1sov authenticated successfully as user pen1sov.
+2024-07-01 00:14:56 - TShock: INFO: pen1sov (127.41.54.176) from 'default' group joined. (2/8)
+2024-07-01 00:14:56 - Utils: INFO: Broadcast: pen1sov has joined.
+2024-07-01 00:15:11 - TShock: INFO: Podsigarich (127.164.125.157) from 'guest' group joined. (3/8)
+2024-07-01 00:15:11 - Utils: INFO: Broadcast: Podsigarich has joined.
+2024-07-01 00:16:16 - Utils: INFO: Podsigarich executed (args omitted): /register.
+2024-07-01 00:16:16 - Commands: INFO: Podsigarich registered an account: "Podsigarich".
+2024-07-01 00:16:26 - Utils: INFO: Broadcast: Podsigarich: login Podsigarich
+2024-07-01 00:16:37 - Utils: INFO: Podsigarich executed (args omitted): /login.
+2024-07-01 00:16:37 - Commands: INFO: Podsigarich authenticated successfully as user: Podsigarich.
+2024-07-01 00:16:50 - Utils: INFO: Broadcast: Podsigarich: дай кирку заебал
+2024-07-01 00:17:02 - Utils: INFO: Broadcast: Podsigarich: дай дерева
+2024-07-01 00:17:24 - Utils: INFO: Broadcast: Podsigarich: дай зелек штук 20
+2024-07-01 00:17:46 - Utils: INFO: Broadcast: Podsigarich: бомж
+2024-07-01 00:17:58 - Utils: INFO: Broadcast: Podsigarich: лан папочка развиваться пошел
+2024-07-01 00:18:14 - Utils: INFO: Broadcast: Saving world...
+2024-07-01 00:18:16 - Utils: INFO: Broadcast: World saved.
+2024-07-01 00:18:16 - SaveManager: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T19.18.14Z.bak)
+2024-07-01 00:18:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T19.18.14Z.bak).
+2024-07-01 00:18:49 - Utils: INFO: Broadcast: Podsigarich: факела купи и дай
+2024-07-01 00:18:52 - Utils: INFO: Broadcast: Podsigarich: штук 30
+2024-07-01 00:18:54 - Utils: INFO: Broadcast: Saving world...
+2024-07-01 00:19:18 - Utils: INFO: Broadcast: Podsigarich: спс
+2024-07-01 00:19:33 - TSPlayer: INFO: Player GRENY has been disabled for Reached TileKill threshold..
+2024-07-01 00:19:33 - TShock: INFO: Broadcast: Podsigarich: 700 часов на мастере блять
+2024-07-01 00:20:25 - TShock: INFO: Broadcast: Podsigarich: не
+2024-07-01 00:20:29 - TShock: INFO: Broadcast: Podsigarich: я в шахту
+2024-07-01 00:21:37 - TShock: INFO: Broadcast: Podsigarich: блять
+2024-07-01 00:21:52 - TShock: INFO: Broadcast: Podsigarich: а кто по игрокам?
+2024-07-01 00:21:58 - TShock: INFO: Broadcast: GRENY: я енот
+2024-07-01 00:22:02 - TShock: INFO: Broadcast: Podsigarich: соси
+2024-07-01 00:22:09 - TShock: INFO: Broadcast: Podsigarich: лан я призыватель
+2024-07-01 00:22:13 - TShock: INFO: Broadcast: Podsigarich: впадлу воина
+2024-07-01 00:22:29 - TShock: INFO: Broadcast: Podsigarich: нет
+2024-07-01 00:23:40 - TShock: INFO: Broadcast: Podsigarich: пиздос
+2024-07-01 00:23:45 - HandlerCollection`1: INFO: Broadcast: Podsigarich: кримзон в упоре
+2024-07-01 00:23:49 - HandlerCollection`1: INFO: Broadcast: Podsigarich: кайф
+2024-07-01 00:24:18 - HandlerCollection`1: INFO: Broadcast: Podsigarich: нельзя
+2024-07-01 00:24:26 - HandlerCollection`1: INFO: Broadcast: Podsigarich: лищь с хардмода
+2024-07-01 00:24:30 - HandlerCollection`1: INFO: Broadcast: Podsigarich: олово не надо
+2024-07-01 00:26:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: кто железо домой не таскает, тот дома не живет
+2024-07-01 00:27:40 - HandlerCollection`1: INFO: Broadcast: Podsigarich: самая важная руда
+2024-07-01 00:27:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: на сундуки
+2024-07-01 00:27:51 - HandlerCollection`1: INFO: Broadcast: Podsigarich: склад ночью буду делать
+2024-07-01 00:28:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:28:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 00:28:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T19.28.14Z.bak)
+2024-07-01 00:28:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T19.28.14Z.bak).
+2024-07-01 00:28:33 - HandlerCollection`1: INFO: Broadcast: Podsigarich: енот тут золото или платина?
+2024-07-01 00:28:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:29:07 - HandlerCollection`1: INFO: Broadcast: Podsigarich: ахахазхаххахахахахахха
+2024-07-01 00:29:10 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пиздец
+2024-07-01 00:29:22 - HandlerCollection`1: INFO: Broadcast: Podsigarich: дс
+2024-07-01 00:29:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: их всего 5 в мире блять
+2024-07-01 00:29:39 - HandlerCollection`1: INFO: Broadcast: Podsigarich: и он мне попался
+2024-07-01 00:30:08 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 00:30:17 - HandlerCollection`1: INFO: Broadcast: Podsigarich: просто самый редкий питомец
+2024-07-01 00:31:06 - HandlerCollection`1: INFO: Broadcast: Podsigarich: сука
+2024-07-01 00:32:39 - HandlerCollection`1: INFO: Broadcast: GRENY: ну мы уже за зеленых
+2024-07-01 00:32:46 - HandlerCollection`1: INFO: Broadcast: pen1sov: 123
+2024-07-01 00:32:47 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я голубой
+2024-07-01 00:33:10 - HandlerCollection`1: INFO: Broadcast: Podsigarich: залупа
+2024-07-01 00:33:28 - HandlerCollection`1: INFO: Broadcast: Podsigarich: костик
+2024-07-01 00:33:34 - HandlerCollection`1: INFO: Broadcast: Podsigarich: добудь песок
+2024-07-01 00:33:38 - HandlerCollection`1: INFO: Broadcast: Podsigarich: штук 100
+2024-07-01 00:34:31 - HandlerCollection`1: INFO: Broadcast: Podsigarich: спс
+2024-07-01 00:34:37 - HandlerCollection`1: INFO: Broadcast: Podsigarich: и птицу
+2024-07-01 00:35:04 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 00:35:23 - HandlerCollection`1: INFO: Broadcast: Podsigarich: хочу хилку на 80
+2024-07-01 00:35:31 - HandlerCollection`1: INFO: Broadcast: Podsigarich: банок
+2024-07-01 00:36:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: джунгли справа
+2024-07-01 00:38:10 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я из за твоего сервакак чуть не вмер
+2024-07-01 00:38:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:38:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 00:38:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T19.38.14Z.bak)
+2024-07-01 00:38:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T19.38.14Z.bak).
+2024-07-01 00:38:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:39:32 - HandlerCollection`1: INFO: Broadcast: Podsigarich: суки
+2024-07-01 00:39:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: бляяяя
+2024-07-01 00:39:37 - HandlerCollection`1: INFO: Broadcast: Podsigarich: заебался
+2024-07-01 00:39:42 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я в шахту
+2024-07-01 00:39:54 - HandlerCollection`1: INFO: Broadcast: Podsigarich: паутинку собирайте
+2024-07-01 00:40:08 - HandlerCollection`1: INFO: Broadcast: Podsigarich: кровать
+2024-07-01 00:40:37 - HandlerCollection`1: INFO: Broadcast: Podsigarich: скорость
+2024-07-01 00:41:11 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я себе меч из вашего вольфрама делаю
+2024-07-01 00:41:17 - HandlerCollection`1: INFO: Broadcast: Podsigarich: извиниите если что
+2024-07-01 00:41:19 - HandlerCollection`1: INFO: Broadcast: Podsigarich: окуплю
+2024-07-01 00:41:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мне пох
+2024-07-01 00:41:53 - HandlerCollection`1: INFO: Broadcast: GRENY: пользуйтесь
+2024-07-01 00:44:30 - HandlerCollection`1: INFO: Broadcast: Podsigarich: у меня 178
+2024-07-01 00:44:44 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да блять
+2024-07-01 00:44:48 - HandlerCollection`1: INFO: Broadcast: Podsigarich: и в шарагу пошел
+2024-07-01 00:44:59 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 00:45:01 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 3 курса
+2024-07-01 00:45:04 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я же говорил
+2024-07-01 00:45:31 - HandlerCollection`1: INFO: Broadcast: Podsigarich: у  меня специальность по вузам это эколог
+2024-07-01 00:45:38 - HandlerCollection`1: INFO: Broadcast: Podsigarich: не, я поступил
+2024-07-01 00:45:47 - HandlerCollection`1: INFO: Broadcast: Podsigarich: понял что не мое и сьебал на сисадмина
+2024-07-01 00:45:55 - HandlerCollection`1: INFO: Broadcast: GRENY has left.
+2024-07-01 00:45:55 - HandlerCollection`1: INFO: GRENY disconnected.
+2024-07-01 00:45:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: но уже в шарагу
+2024-07-01 00:46:19 - HandlerCollection`1: INFO: Broadcast: Podsigarich: предметы не те
+2024-07-01 00:46:29 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я поступил в вуз бля
+2024-07-01 00:46:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: отучился неделю и сьебал
+2024-07-01 00:48:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:48:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 00:48:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T19.48.14Z.bak)
+2024-07-01 00:48:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T19.48.14Z.bak).
+2024-07-01 00:48:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:49:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пох
+2024-07-01 00:50:39 - HandlerCollection`1: INFO: Broadcast: Podsigarich: костик
+2024-07-01 00:50:49 - HandlerCollection`1: INFO: Broadcast: Podsigarich: собери мне лоз жал и спор
+2024-07-01 00:50:54 - HandlerCollection`1: INFO: Broadcast: Podsigarich: на хлыст
+2024-07-01 00:51:04 - HandlerCollection`1: INFO: Broadcast: Podsigarich: отплачу минетиком
+2024-07-01 00:52:00 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мне надо в зимний биом к слову
+2024-07-01 00:52:07 - HandlerCollection`1: INFO: Broadcast: Podsigarich: флинксов фармить
+2024-07-01 00:52:16 - HandlerCollection`1: INFO: Broadcast: Podsigarich: он слева
+2024-07-01 00:52:20 - HandlerCollection`1: INFO: Broadcast: Podsigarich: за кримзоном
+2024-07-01 00:52:27 - HandlerCollection`1: INFO: Broadcast: Podsigarich: нет
+2024-07-01 00:52:40 - HandlerCollection`1: INFO: Broadcast: Podsigarich: зимний в противополодной от джунглей
+2024-07-01 00:53:49 - HandlerCollection`1: INFO: Broadcast: Podsigarich: тебе броня из окаменелостей нужна
+2024-07-01 00:54:00 - HandlerCollection`1: INFO: Broadcast: Podsigarich: хотя забей
+2024-07-01 00:54:04 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 00:54:15 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 50% не проебать патрон
+2024-07-01 00:54:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: че ты выебываешься
+2024-07-01 00:54:40 - HandlerCollection`1: INFO: Broadcast: Podsigarich: лук с королевы
+2024-07-01 00:54:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мини акула
+2024-07-01 00:54:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: нет
+2024-07-01 00:55:01 - HandlerCollection`1: INFO: Broadcast: Podsigarich: покупается
+2024-07-01 00:55:04 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 75 золота
+2024-07-01 00:55:22 - HandlerCollection`1: INFO: Broadcast: Podsigarich: никиту ждем
+2024-07-01 00:57:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пошли зимний
+2024-07-01 00:57:54 - HandlerCollection`1: INFO: Broadcast: Podsigarich: руда чаще там
+2024-07-01 00:57:57 - HandlerCollection`1: INFO: Broadcast: Podsigarich: хуйня
+2024-07-01 00:58:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:58:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 00:58:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T19.58.14Z.bak)
+2024-07-01 00:58:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T19.58.14Z.bak).
+2024-07-01 00:58:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я кшел
+2024-07-01 00:58:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 00:58:55 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 00:58:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: зельки
+2024-07-01 00:59:20 - HandlerCollection`1: INFO: Broadcast: Podsigarich: удочку в джунглях найди
+2024-07-01 00:59:25 - HandlerCollection`1: INFO: Broadcast: Podsigarich: соси
+2024-07-01 00:59:57 - HandlerCollection`1: INFO: Broadcast: Podsigarich: лох
+2024-07-01 01:00:16 - HandlerCollection`1: INFO: Broadcast: Podsigarich: сука
+2024-07-01 01:00:22 - HandlerCollection`1: INFO: Broadcast: Podsigarich: кримера тпхается в ебало
+2024-07-01 01:00:26 - HandlerCollection`1: INFO: Broadcast: Podsigarich: спасибо сервер
+2024-07-01 01:00:32 - HandlerCollection`1: INFO: Broadcast: Podsigarich: нужен нщн мед
+2024-07-01 01:00:47 - HandlerCollection`1: INFO: Broadcast: Podsigarich: еще
+2024-07-01 01:00:55 - HandlerCollection`1: INFO: Broadcast: Podsigarich: есть
+2024-07-01 01:01:50 - HandlerCollection`1: INFO: Broadcast: Podsigarich: сука
+2024-07-01 01:01:53 - HandlerCollection`1: INFO: Broadcast: Podsigarich: костя пошли
+2024-07-01 01:02:03 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мне нужна мишень для врагов
+2024-07-01 01:02:28 - HandlerCollection`1: INFO: Broadcast: Podsigarich: лан за мага буду
+2024-07-01 01:02:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 01:03:36 - HandlerCollection`1: INFO: Broadcast: Podsigarich: имба
+2024-07-01 01:03:48 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пошли зиму
+2024-07-01 01:03:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: проводи меня
+2024-07-01 01:04:06 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мне флинксы нужны
+2024-07-01 01:04:12 - HandlerCollection`1: INFO: Broadcast: Podsigarich: призывателем буду
+2024-07-01 01:04:31 - HandlerCollection`1: INFO: Broadcast: Podsigarich: сука
+2024-07-01 01:05:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: блять
+2024-07-01 01:05:50 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я раковину фармить
+2024-07-01 01:05:53 - HandlerCollection`1: INFO: Broadcast: Podsigarich: ебал рот
+2024-07-01 01:05:57 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пошли кость
+2024-07-01 01:06:13 - HandlerCollection`1: INFO: Broadcast: Podsigarich: в подземную пустыню
+2024-07-01 01:06:23 - HandlerCollection`1: INFO: Broadcast: Podsigarich: она тепает на другой конец карты
+2024-07-01 01:06:31 - HandlerCollection`1: INFO: Broadcast: Podsigarich: сундуки там ищи
+2024-07-01 01:07:21 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пошел со мной на кровати бы сохранился
+2024-07-01 01:07:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я все сделал
+2024-07-01 01:07:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: у меня есть кроватка
+2024-07-01 01:07:46 - HandlerCollection`1: INFO: Broadcast: Podsigarich: в инвентаре
+2024-07-01 01:07:49 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 0))))
+2024-07-01 01:07:53 - HandlerCollection`1: INFO: Broadcast: Podsigarich: блять
+2024-07-01 01:07:58 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мискликом тепнулся
+2024-07-01 01:08:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:08:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 01:08:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T20.08.14Z.bak)
+2024-07-01 01:08:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T20.08.14Z.bak).
+2024-07-01 01:08:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:09:46 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пизда
+2024-07-01 01:10:43 - HandlerCollection`1: INFO: Broadcast: Podsigarich: енот я пустил весь вольфрам себе на броню
+2024-07-01 01:10:45 - HandlerCollection`1: INFO: Broadcast: Podsigarich: простиэ
+2024-07-01 01:10:49 - HandlerCollection`1: INFO: Broadcast: Podsigarich: это тебе надо
+2024-07-01 01:10:52 - HandlerCollection`1: INFO: Broadcast: Podsigarich: на броню
+2024-07-01 01:12:08 - HandlerCollection`1: INFO: Broadcast: Podsigarich: да
+2024-07-01 01:12:46 - HandlerCollection`1: INFO: Broadcast: Podsigarich: руды копай костя
+2024-07-01 01:12:51 - HandlerCollection`1: INFO: Broadcast: Podsigarich: делом займись бля
+2024-07-01 01:13:20 - HandlerCollection`1: INFO: Broadcast: Podsigarich: терпиэ
+2024-07-01 01:13:50 - HandlerCollection`1: INFO: Broadcast: Podsigarich: я им твои данные даю
+2024-07-01 01:14:17 - HandlerCollection`1: INFO: Broadcast: Podsigarich: напиши никите
+2024-07-01 01:15:03 - HandlerCollection`1: INFO: Broadcast: Podsigarich: уху
+2024-07-01 01:15:11 - HandlerCollection`1: INFO: Broadcast: Podsigarich: алмазная залежа
+2024-07-01 01:15:19 - HandlerCollection`1: INFO: Broadcast: Podsigarich: могу сапфировый крюк отдать
+2024-07-01 01:15:32 - HandlerCollection`1: INFO: Broadcast: Podsigarich: метеор после победы над мозгом падпет
+2024-07-01 01:16:15 - HandlerCollection`1: INFO: Broadcast: Podsigarich: тут грибной
+2024-07-01 01:16:21 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 120)
+2024-07-01 01:16:42 - HandlerCollection`1: INFO: Broadcast: Podsigarich: тут людей ебут
+2024-07-01 01:17:32 - HandlerCollection`1: INFO: Broadcast: Podsigarich: запор
+2024-07-01 01:18:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:18:16 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 01:18:16 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T20.18.14Z.bak)
+2024-07-01 01:18:16 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T20.18.14Z.bak).
+2024-07-01 01:18:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:19:01 - HandlerCollection`1: INFO: Broadcast: Podsigarich: база
+2024-07-01 01:21:21 - HandlerCollection`1: INFO: Broadcast: Podsigarich: костик
+2024-07-01 01:21:29 - HandlerCollection`1: INFO: Broadcast: Podsigarich: броню хочешь?
+2024-07-01 01:21:41 - HandlerCollection`1: INFO: Broadcast: Podsigarich: фарми окаменелые останки в подземной пустыне
+2024-07-01 01:21:46 - HandlerCollection`1: INFO: Broadcast: Podsigarich: штук 500
+2024-07-01 01:23:39 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 180 хп
+2024-07-01 01:24:25 - HandlerCollection`1: INFO: Broadcast: Podsigarich: все достяги ееее
+2024-07-01 01:24:41 - HandlerCollection`1: INFO: Broadcast: Podsigarich: мне уже пох
+2024-07-01 01:25:00 - HandlerCollection`1: INFO: Broadcast: Podsigarich: 200 хп
+2024-07-01 01:26:44 - TSPlayer: INFO: Player Podsigarich has been disabled for Reached TileKill threshold..
+2024-07-01 01:27:05 - TSPlayer: INFO: Player Podsigarich has been disabled for Reached TileKill threshold..
+2024-07-01 01:27:24 - HandlerCollection`1: INFO: Broadcast: Podsigarich has left.
+2024-07-01 01:27:24 - HandlerCollection`1: INFO: Podsigarich disconnected.
+2024-07-01 01:27:42 - GetDataHandlers: INFO: Podsigarich authenticated successfully as user Podsigarich.
+2024-07-01 01:27:43 - HandlerCollection`1: INFO: Podsigarich (127.164.125.157) from 'default' group joined. (2/8)
+2024-07-01 01:27:43 - TShock: INFO: Broadcast: Podsigarich has joined.
+2024-07-01 01:27:47 - HandlerCollection`1: INFO: Broadcast: Podsigarich: пиздец
+2024-07-01 01:27:51 - HandlerCollection`1: INFO: Broadcast: Podsigarich: и не на кровати
+2024-07-01 01:28:14 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:28:17 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 01:28:17 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T20.28.14Z.bak)
+2024-07-01 01:28:17 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T20.28.14Z.bak).
+2024-07-01 01:28:35 - HandlerCollection`1: INFO: Broadcast: Podsigarich: никита идет
+2024-07-01 01:28:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:30:02 - HandlerCollection`1: INFO: Broadcast: Podsigarich: жди
+2024-07-01 01:30:05 - HandlerCollection`1: INFO: Broadcast: pen1sov has left.
+2024-07-01 01:30:05 - HandlerCollection`1: INFO: pen1sov disconnected.
+2024-07-01 01:31:57 - HandlerCollection`1: INFO: Broadcast: Podsigarich: енот
+2024-07-01 01:32:00 - HandlerCollection`1: INFO: Broadcast: Podsigarich: ты тут?
+2024-07-01 01:35:10 - HandlerCollection`1: INFO: Broadcast: Podsigarich has left.
+2024-07-01 01:35:10 - HandlerCollection`1: INFO: Podsigarich disconnected.
+2024-07-01 01:35:10 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 01:35:12 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 01:35:12 - StartHelper: INFO: World saved at (C:\Users\Fetisov\Documents\My Games\Terraria\Worlds\sex-world.wld)
+2024-07-01 03:02:24 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:02:25 - GetDataHandlers: INFO: Podsigarich authenticated successfully as user Podsigarich.
+2024-07-01 03:02:26 - HandlerCollection`1: INFO: Podsigarich (127.164.125.157) from 'default' group joined. (1/8)
+2024-07-01 03:02:26 - TShock: INFO: Broadcast: Podsigarich has joined.
+2024-07-01 03:02:26 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:02:26 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T22.02.24Z.bak)
+2024-07-01 03:02:26 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T22.02.24Z.bak).
+2024-07-01 03:06:09 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:08:46 - TSPlayer: INFO: Player Podsigarich has been disabled for Reached TileKill threshold..
+2024-07-01 03:12:24 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:12:26 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:12:26 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T22.12.24Z.bak)
+2024-07-01 03:12:26 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T22.12.24Z.bak).
+2024-07-01 03:16:09 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:22:24 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:22:26 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:22:26 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T22.22.24Z.bak)
+2024-07-01 03:22:26 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T22.22.24Z.bak).
+2024-07-01 03:26:09 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:32:24 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:32:26 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:32:26 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T22.32.24Z.bak)
+2024-07-01 03:32:26 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T22.32.24Z.bak).
+2024-07-01 03:36:09 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:41:11 - TSPlayer: INFO: Player Podsigarich has been disabled for Reached TileKill threshold..
+2024-07-01 03:41:44 - TSPlayer: INFO: Player Podsigarich has been disabled for Reached TileKill threshold..
+2024-07-01 03:42:24 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:42:26 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:42:26 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-06-30T22.42.24Z.bak)
+2024-07-01 03:42:26 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-06-30T22.42.24Z.bak).
+2024-07-01 03:46:09 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:48:53 - HandlerCollection`1: INFO: Broadcast: Podsigarich has left.
+2024-07-01 03:48:53 - HandlerCollection`1: INFO: Podsigarich disconnected.
+2024-07-01 03:48:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 03:48:56 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 03:48:56 - StartHelper: INFO: World saved at (C:\Users\Fetisov\Documents\My Games\Terraria\Worlds\sex-world.wld)
+2024-07-01 06:37:11 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 06:37:13 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 06:37:13 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-07-01T01.37.11Z.bak)
+2024-07-01 06:37:13 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-07-01T01.37.11Z.bak).
+2024-07-01 13:53:46 - SaveManager: INFO: Broadcast: Saving world...
+2024-07-01 13:53:48 - StartHelper: INFO: Broadcast: World saved.
+2024-07-01 13:53:48 - StartHelper: INFO: World saved at (tshock\backups\sex-world.wld.2024-07-01T08.53.46Z.bak)
+2024-07-01 13:53:48 - BackupManager: INFO: World backed up (tshock\backups\sex-world.wld.2024-07-01T08.53.46Z.bak).
+2024-07-01 13:54:52 - GetDataHandlers: INFO: Podsigarich authenticated successfully as user Podsigarich.
+2024-07-01 13:54:53 - HandlerCollection`1: INFO: Podsigarich (127.164.125.157) from 'default' group joined. (1/8)
+2024-07-01 13:54:53 - TShock: INFO: Broadcast: Podsigarich has joined.
+2024-07-01 14:01:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-07-01 14:01:57 - TShock: ERROR: System.IO.IOException: Недостаточно места на диске. : 'C:\Users\Fetisov\Documents\My Games\Terraria\Worlds\sex-world.wld'
+   at System.IO.Strategies.BufferedFileStreamStrategy.FlushWrite()
+   at System.IO.Strategies.BufferedFileStreamStrategy.Dispose(Boolean disposing)
+   at System.IO.Stream.Dispose()
+   at Terraria.Utilities.FileUtilities.Write(String path, Byte[] data, Int32 length, Boolean cloud)
+   at Terraria.IO.WorldFile.InternalSaveWorld(Boolean useCloudSaving, Boolean resetTime)
+   at Terraria.Utilities.FileUtilities.ProtectedInvoke(Action action)
+   at DMD<Terraria.IO.WorldFile::SaveWorld>(Boolean useCloudSaving, Boolean resetTime)
+   at Terraria.IO.WorldFile.SaveWorld()
+   at Terraria.WorldGen.saveAndPlayCallBack(Object threadContext)
+   at System.Threading.QueueUserWorkItemCallback.<>c.<.cctor>b__6_0(QueueUserWorkItemCallback quwi)
+   at System.Threading.ExecutionContext.RunForThreadPoolUnsafe[TState](ExecutionContext executionContext, Action`1 callback, TState& state)
+   at System.Threading.QueueUserWorkItemCallback.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+2024-07-01 14:01:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-07-01 14:01:59 - SaveManager: ERROR: World saved failed
+2024-07-01 14:01:59 - SaveManager: ERROR: System.IO.IOException: Недостаточно места на диске. : 'C:\Users\Fetisov\Documents\My Games\Terraria\Worlds\sex-world.wld.crash'
+   at System.IO.Strategies.BufferedFileStreamStrategy.FlushWrite()
+   at System.IO.Strategies.BufferedFileStreamStrategy.Dispose(Boolean disposing)
+   at System.IO.Stream.Dispose()
+   at Terraria.Utilities.FileUtilities.Write(String path, Byte[] data, Int32 length, Boolean cloud)
+   at Terraria.IO.WorldFile.InternalSaveWorld(Boolean useCloudSaving, Boolean resetTime)
+   at Terraria.Utilities.FileUtilities.ProtectedInvoke(Action action)
+   at DMD<Terraria.IO.WorldFile::SaveWorld>(Boolean useCloudSaving, Boolean resetTime)
+   at TShockAPI.SaveManager.SaveWorker() in /home/runner/work/TShock/TShock/TShockAPI/SaveManager.cs:line 128
